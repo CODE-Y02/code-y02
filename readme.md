@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Yatharth Lakhate Banner" width="100%" />
-  
   <br/>
-  
-  <h1>Hi, I'm Yatharth Lakhate 👋</h1>
+  <h1>✨ Yatharth Lakhate ✨</h1>
   <p><strong>Systems-Focused Full Stack Engineer | Software Architect</strong></p>
+  <p><i>Building robust, high-performance digital systems with mechanical precision.</i></p>
+
+  <br/>
 
   <p>
     <a href="./ABOUT_ME.md"><img src="https://img.shields.io/badge/About%20Me-Indigo?style=for-the-badge&logo=about.me&logoColor=white" /></a>
@@ -45,7 +45,7 @@ I build high-performance applications and developer tools that solve complex arc
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=code-y02&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=code-y02&color=green&style=flat-square&label=PROFILE+VIEWS" />
   <br/>
   <p><i>Explore the navigation buttons at the top to see my full technical arsenal and journey!</i></p>
 </div>
