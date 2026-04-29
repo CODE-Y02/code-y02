@@ -1,45 +1,44 @@
 <div align="center">
-  <h1>💫 About Me</h1>
-  <p>Backend engineer. Open source maintainer. Remote for 3+ years.</p>
+  <h1>✨ Yatharth Lakhate ✨</h1>
+  <p><strong>Backend Engineer · Node.js · TypeScript · GraphQL · Redis · PostgreSQL</strong></p>
+  <p><i>3+ years building production-grade distributed systems that don't break.</i></p>
+  <br/>
+  <p>
+    <a href="./ABOUT_ME.md"><img src="https://img.shields.io/badge/About%20Me-Indigo?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+    <a href="./PROJECTS.md"><img src="https://img.shields.io/badge/Projects-Cyan?style=for-the-badge&logo=rocket&logoColor=white" /></a>
+    <a href="./SKILLS.md"><img src="https://img.shields.io/badge/Skills-DarkGreen?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/yatharthlakhate"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="https://code-y02.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-### 📖 Background
+### 🚀 Quick Snapshot
 
-I started as a Mechanical Engineer — and that background actually shaped how I think about software. Reliability, load tolerance, failure modes — the same principles that apply to physical systems apply to distributed backends.
+Primary backend engineer at a PE-backed hospital chain (5,700+ employees) — built the entire API infrastructure from scratch.
 
-I transitioned into engineering in 2022 and have been the **primary backend engineer** at one of India's largest PE-backed hospital chains since 2023, where I designed and own the entire API infrastructure from scratch.
-
----
-
-### 🛠 What I Work On
-
-- **Backend Systems**: Distributed APIs, GraphQL microservices, RBAC, event-driven architectures
-- **Performance Engineering**: Redis caching layers, async job queues, optimized query design
-- **AI Integration**: AWS Bedrock for clinical note summarization and automated discharge workflows
-- **Developer Tooling**: Open source npm packages and CLI tools used by other engineers daily
+- 🏗 **Architecture**: GraphQL microservices with RBAC, event-driven job queues, Redis caching — serving real-time hospital operations across multiple facilities
+- ⚡ **Performance**: 40% API latency reduction via Redis middleware · 60% faster report turnaround via AI-assisted discharge pipeline · 99.9% uptime
+- 📦 **OSS**: Creator of [@express-route-cache](https://github.com/CODE-Y02/express-route-cache) — ~100 daily downloads on npm
+- 🛠 **Tooling**: Creator of [Express Forge](https://github.com/CODE-Y02/express-cli) — production Express + TypeScript CLI
 
 ---
 
-### 📦 Open Source
-
-**[@express-route-cache](https://github.com/CODE-Y02/express-route-cache)**
-TypeScript-first TTL and in-memory route caching middleware for Express.js — ~100 daily downloads, actively maintained.
-
-**[Express Forge](https://github.com/CODE-Y02/express-cli)**
-CLI for scaffolding production-ready Express + TypeScript backends with pre-integrated Auth, ORM, Docker, and OpenAPI — zero to structured API in under 30 seconds.
-
----
-
-### 🌐 Connect
-
-- **LinkedIn**: [yatharthlakhate](https://linkedin.com/in/yatharthlakhate)
-- **Portfolio**: [code-y02.github.io](https://code-y02.github.io/)
-- **npm**: [@express-route-cache/core](https://www.npmjs.com/package/@express-route-cache/core)
-
-<br/>
+### 📊 GitHub Activity
 
 <div align="center">
-  <a href="./README.md"><strong>← Back to Profile</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-y02&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-y02&theme=dark&hide_border=false" height="150" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-y02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-y02&color=green&style=flat-square&label=PROFILE+VIEWS" />
 </div>
