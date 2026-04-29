@@ -1,37 +1,42 @@
 <div align="center">
   <h1>💫 About Me</h1>
-  <p>Engineering robust digital systems with a mechanical precision.</p>
+  <p>Backend engineer. Open source maintainer. Remote for 3+ years.</p>
 </div>
 
 ---
 
-### 📖 My Story
+### 📖 Background
 
-I am a **Systems-Focused Full Stack Engineer** with a unique background. Originally trained as a **Mechanical Engineer**, I discovered that the principles of designing physical machines—reliability, efficiency, and structural integrity—apply perfectly to software architecture.
+I started as a Mechanical Engineer — and that background actually shaped how I think about software. Reliability, load tolerance, failure modes — the same principles that apply to physical systems apply to distributed backends.
 
-I transitioned into tech to build systems that scale. Today, I focus on the intersection of **Backend Architecture**, **Performance Optimization**, and **Artificial Intelligence**.
-
-### 🛠 What I Do
-
-- **Full Stack Development**: Building end-to-end applications that are as beautiful as they are functional.
-- **Backend Engineering**: Designing caching strategies, database schemas, and CLI tools that empower other developers.
-- **AI Integration**: Implementing LLMs and Edge AI to solve real-world problems in privacy and healthcare.
+I transitioned into engineering in 2022 and have been the **primary backend engineer** at one of India's largest PE-backed hospital chains since 2023, where I designed and own the entire API infrastructure from scratch.
 
 ---
 
-### ⚡ Beyond the Code
+### 🛠 What I Work On
 
-- 🎵 **Music Production**: When I'm not at the terminal, I'm creating digital music beats.
-- ⚙️ **Engineering Mindset**: I still think in blueprints and mechanics, which helps me visualize complex data flows.
-- 🎮 **Tech Enthusiast**: I love exploring emerging tech like WebRTC and Scalable Systems.
+- **Backend Systems**: Distributed APIs, GraphQL microservices, RBAC, event-driven architectures
+- **Performance Engineering**: Redis caching layers, async job queues, optimized query design
+- **AI Integration**: AWS Bedrock for clinical note summarization and automated discharge workflows
+- **Developer Tooling**: Open source npm packages and CLI tools used by other engineers daily
 
 ---
 
-### 🌐 Connect With Me
+### 📦 Open Source
 
-- **LinkedIn**: [Yatharth Lakhate](https://linkedin.com/in/yatharth-lakhate)
-- **X (Twitter)**: [@yatharth_l](https://x.com/yatharth_l)
+**[@express-route-cache](https://github.com/CODE-Y02/express-route-cache)**
+TypeScript-first TTL and in-memory route caching middleware for Express.js — ~100 daily downloads, actively maintained.
+
+**[Express Forge](https://github.com/CODE-Y02/express-cli)**
+CLI for scaffolding production-ready Express + TypeScript backends with pre-integrated Auth, ORM, Docker, and OpenAPI — zero to structured API in under 30 seconds.
+
+---
+
+### 🌐 Connect
+
+- **LinkedIn**: [yatharthlakhate](https://linkedin.com/in/yatharthlakhate)
 - **Portfolio**: [code-y02.github.io](https://code-y02.github.io/)
+- **npm**: [@express-route-cache/core](https://www.npmjs.com/package/@express-route-cache/core)
 
 <br/>
 
