@@ -1,51 +1,45 @@
 <div align="center">
-  <br/>
-  <h1>✨ Yatharth Lakhate ✨</h1>
-  <p><strong>Systems-Focused Full Stack Engineer | Software Architect</strong></p>
-  <p><i>Building robust, high-performance digital systems with mechanical precision.</i></p>
-
-  <br/>
-
-  <p>
-    <a href="./ABOUT_ME.md"><img src="https://img.shields.io/badge/About%20Me-Indigo?style=for-the-badge&logo=about.me&logoColor=white" /></a>
-    <a href="./PROJECTS.md"><img src="https://img.shields.io/badge/Projects-Cyan?style=for-the-badge&logo=rocket&logoColor=white" /></a>
-    <a href="./SKILLS.md"><img src="https://img.shields.io/badge/Skills-DarkGreen?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  </p>
-
-  <p>
-    <a href="https://linkedin.com/in/yatharth-lakhate"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/yatharth_l"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-    <a href="https://code-y02.github.io/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white" /></a>
-  </p>
+  <h1>💫 About Me</h1>
+  <p>Backend engineer. Open source maintainer. Remote for 3+ years.</p>
 </div>
 
 ---
 
-### 🚀 Quick Snapshot
+### 📖 Background
 
-I build high-performance applications and developer tools that solve complex architectural challenges.
+I started as a Mechanical Engineer — and that background actually shaped how I think about software. Reliability, load tolerance, failure modes — the same principles that apply to physical systems apply to distributed backends.
 
-- 🏗 **Architecture**: Specialist in Express ecosystems and scalable backends.
-- ⚡ **Performance**: Creator of [@express-route-cache](https://github.com/CODE-Y02/express-route-cache).
-- 🛠 **Tooling**: Creator of [Express Forge](https://github.com/CODE-Y02/express-cli).
+I transitioned into engineering in 2022 and have been the **primary backend engineer** at one of India's largest PE-backed hospital chains since 2023, where I designed and own the entire API infrastructure from scratch.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠 What I Work On
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-y02&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-y02&theme=dark&hide_border=false" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-y02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</div>
+- **Backend Systems**: Distributed APIs, GraphQL microservices, RBAC, event-driven architectures
+- **Performance Engineering**: Redis caching layers, async job queues, optimized query design
+- **AI Integration**: AWS Bedrock for clinical note summarization and automated discharge workflows
+- **Developer Tooling**: Open source npm packages and CLI tools used by other engineers daily
 
 ---
 
+### 📦 Open Source
+
+**[@express-route-cache](https://github.com/CODE-Y02/express-route-cache)**
+TypeScript-first TTL and in-memory route caching middleware for Express.js — ~100 daily downloads, actively maintained.
+
+**[Express Forge](https://github.com/CODE-Y02/express-cli)**
+CLI for scaffolding production-ready Express + TypeScript backends with pre-integrated Auth, ORM, Docker, and OpenAPI — zero to structured API in under 30 seconds.
+
+---
+
+### 🌐 Connect
+
+- **LinkedIn**: [yatharthlakhate](https://linkedin.com/in/yatharthlakhate)
+- **Portfolio**: [code-y02.github.io](https://code-y02.github.io/)
+- **npm**: [@express-route-cache/core](https://www.npmjs.com/package/@express-route-cache/core)
+
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-y02&color=green&style=flat-square&label=PROFILE+VIEWS" />
-  <br/>
-  <p><i>Explore the navigation buttons at the top to see my full technical arsenal and journey!</i></p>
+  <a href="./README.md"><strong>← Back to Profile</strong></a>
 </div>
